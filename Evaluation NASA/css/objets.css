@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    color: #ffb703;
+    margin-top: 30px;
+    font-family: 'Major Mono Display', serif;
+}
+
+p {
+    text-align: center;
+    font-family: "Armata", serif;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: large;
+
+}
+
+a {
+    font-family: "Armata", serif;
+}
+
+
+.navbar-brand{
+    font-family: 'Major Mono Display', serif;
+}
+
+.card-title {
+    font-family: "Armata", serif;
+    font-weight: lighter;
+
+}
+
+.custom-btn {
+    background-color: #041a3b; 
+    color: white;
+}
+.custom-btn:hover {
+    background-color: #062452;
+    color: white;
+}

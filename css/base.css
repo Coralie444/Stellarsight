@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Armata&family=Major+Mono+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.major-mono-display-regular {
+    font-family: "Major Mono Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.armata-regular {
+    font-family: "Armata", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+body {
+    background-image: url(/images/star.jpg);
+    object-fit: fill;
+    
+}
+

@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    color: #ffb703;
+    margin-top: 30px;
+    font-family: 'Major Mono Display', serif;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #ffb703;
+    margin-top: 30px;
+    font-family: 'Major Mono Display', serif;
+    margin-bottom: 10px;
+}
+
+label {
+    font-family: "Armata", serif;
+    margin: 10px;
+}
+
+a {
+    font-family: "Armata", serif;
+}
+
+.explication {
+    font-family: "Armata", serif;
+    color: white;
+    font-size: 18px;
+}
+
+p {
+    text-align: center;
+    font-family: "Armata", serif;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: large;
+}
+
+.navbar-brand{
+    font-family: 'Major Mono Display', serif;
+}
+
+.custom-btn {
+    background-color: #041a3b; 
+    color: white;
+    margin-top: 20px;
+}
+.custom-btn:hover {
+    background-color: #062452;
+    color: white;
+}
+
+.custom-message {
+    font-family: "Armata", serif;
+    color: white;
+
+}
